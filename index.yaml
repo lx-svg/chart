@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2022-10-15T10:58:35.8552549+08:00"
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-15T11:11:53.5264808+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 1f5c21fddb1942735b27faa32f8d413597fc47c2c840da37d46c02b7f61ccfbd
+    name: mychart
+    type: application
+    urls:
+    - https://lx-svg.github.io/chart/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-15T11:11:53.5248262+08:00"
